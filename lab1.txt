@@ -1,4 +1,4 @@
 Здесь проходит тестирование коммитов для л./р. №1.
 
 row to index
-row no index
+row no index 
